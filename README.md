@@ -1,12 +1,10 @@
-Summary (WIP)
+Summary
 ---
 
-* Data cleaning and visualisation to explore HDBs in Singapore
-
-Screenshot
----
-![image](./assets/screenshot.jpg)
+* 01-predict-hdb-resale.ipynb: main notebook to model HDB price
+* app.py: visualized hdb resale prices
 
 Acknowledgement
 ---
 * Data from https://data.gov.sg/
+
