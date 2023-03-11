@@ -64,4 +64,4 @@ da.sample(5).T
 
 da['latitude'].isnull().mean()
 
-da.to_csv('data/processed/cleaned_data.csv', index=False)
+# da.to_csv('data/processed/intermediate_data.csv', index=False)
